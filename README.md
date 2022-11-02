@@ -2,9 +2,9 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como resolução do teste técnico solicitado pela Target Sistemas. Ao longo 
+Este projeto foi desenvolvido como resolução do teste técnico solicitado pela Target Sistemas sobre o processo seletivo Desenvolvedor de Sistemas Jr.
 
-[Clique aqui para acessar](https://danielemidio1988.github.io/Portfolio)
+[Clique aqui para acessar](https://danielemidio1988.github.io/Target)
 
 ## Tecnologias
 
